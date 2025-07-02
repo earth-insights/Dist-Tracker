@@ -86,3 +86,20 @@ python track_one.py
 # Train model:
 python train.py
 ```
+## ⭐️ Citation
+
+If you find this project useful, welcome to cite us.
+
+```bib
+@inproceedings{wang2025dist,
+  title={Dist-Tracker: A Small Object-aware Detector and Tracker for UAV Tracking},
+  author={Wang, Wenzhen and Fu, Jing and Song, Jiayi and Li, Kaiyu and Qiao, Hui and Liu, Jiang and Sun, Hao and Cao, Xiangyong},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={6601--6609},
+  year={2025}
+}
+```
+
+## 🙏 Acknowledgement
+
+This work is made possible by foundational open-source projects including the [YOLO series](https://github.com/ultralytics), whose pioneering contributions revolutionized object detection.
